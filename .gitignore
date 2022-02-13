@@ -1,0 +1,14 @@
+# compiled output
+/build
+/prod
+/tmp
+/out-tsc
+
+# IDEs and editors
+/.idea
+
+# dependencies
+/node_modules
+
+# snapshot
+package-lock.json

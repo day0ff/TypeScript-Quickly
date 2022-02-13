@@ -1,0 +1,23 @@
+{
+  "name": "typescript-quickly",
+  "version": "1.0.0",
+  "description": "TypeScript Quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/day0ff/TypeScript-Quickly.git"
+  },
+  "keywords": [
+    "typescript",
+    "quickly"
+  ],
+  "author": "Denis Vershadov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/day0ff/TypeScript-Quickly/issues"
+  },
+  "homepage": "https://github.com/day0ff/TypeScript-Quickly#readme"
+}
